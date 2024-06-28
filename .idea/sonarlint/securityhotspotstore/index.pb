@@ -317,3 +317,5 @@ Q.idea/sonarlint/securityhotspotstore/6/2/62f0fd0265c7b780acc6e3f5764642053d7515
 Q.idea/sonarlint/securityhotspotstore/0/8/089520d7d58c1f4dfd186a142490f2fac6244ce9,7/8/780129115dbc70a92d9ca30c778a3b3f49947484
 Å
 Q.idea/sonarlint/securityhotspotstore/f/5/f53b6b6a3e63ff89aba1a2eca6cbaeb3ef4f4606,5/3/53902603459437963ef9b5443765c2fae5eea012
+Y
+).github/workflows/catalog-service-old.yml,d/0/d0b29e9d3f6bc8afbe5cda067e4897da6449e53a
