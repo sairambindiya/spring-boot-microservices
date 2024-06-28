@@ -37,10 +37,10 @@ jobs:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
-     - name: Build and Publish Docker Image
+      - name: Build and Publish Docker Image
         if: github.ref == 'refs/heads/main'
         run: |
-          ./mvnw spring-boot:build-image -DskipTests
-          echo "Pushing the image to Docker Hub..."
-          docker tag your-image-name:latest ${{ secrets.DOCKERHUB_USERNAME }}/bookstore-catalog-service:latest
-          docker push ${{ secrets.DOCKERHUB_USERNAME }}/bookstore-catalog-service:latest
+            ./mvnw spring-boot:build-image -DskipTests
+            echo "Pushing the image to Docker Hub..."
+            docker tag your-image-name:latest ${{ secrets.DOCKERHUB_USERNAME }}/bookstore-catalog-service:latest
+            docker push ${{ secrets.DOCKERHUB_USERNAME }}/bookstore-catalog-service:latest
