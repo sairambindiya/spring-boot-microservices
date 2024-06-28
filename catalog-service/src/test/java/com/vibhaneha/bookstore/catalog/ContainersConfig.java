@@ -7,8 +7,7 @@ import org.testcontainers.containers.PostgreSQLContainer;
 import org.testcontainers.utility.DockerImageName;
 
 @TestConfiguration(proxyBeanMethods = false)
-// @ComponentScan(basePackages = {"org.springdoc"})
-class ContainersConfig {
+public class ContainersConfig {
 
     @Bean
     @ServiceConnection
