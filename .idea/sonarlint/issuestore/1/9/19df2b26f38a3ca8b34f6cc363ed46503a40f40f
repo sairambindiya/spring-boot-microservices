@@ -1,0 +1,11 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Generic" 3 times.(‚´¯®úÿÿÿÿ8Û˜Í§†2
+j
+java:S1192"HDefine a constant instead of duplicating this literal "service" 3 times.(ˆÈ­Çüÿÿÿÿ8á˜Í§†2
+l
+java:S1192"JDefine a constant instead of duplicating this literal "timestamp" 3 times.(Ãó”Ùüÿÿÿÿ8ç˜Í§†2
+q
+java:S1192"ODefine a constant instead of duplicating this literal "error_category" 3 times.(‚´¯®úÿÿÿÿ8í˜Í§†2
+Œ
+java:S1598"éThis file "GlobalExceptionHandler.java" should be located in "com/vibhaneha/bookstore/orders/web/controllers/exception" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/web/controllers/exception"(Do not use dots in directory names).(æóÓµøÿÿÿÿ8Æ‘Ä§†2

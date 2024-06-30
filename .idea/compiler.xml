@@ -7,16 +7,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="catalog-service" />
+        <module name="order-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spring-boot-microservices" target="20" />
+      <module name="spring-boot-microservices-course" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="catalog-service" options="-parameters" />
-      <module name="spring-boot-microservices" options="-parameters" />
+      <module name="order-service" options="-parameters" />
+      <module name="spring-boot-microservices" options="" />
     </option>
   </component>
 </project>
