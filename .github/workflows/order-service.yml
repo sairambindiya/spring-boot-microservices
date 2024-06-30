@@ -45,6 +45,6 @@ jobs:
       - name: Build and Publish Docker Image
         if: ${{ github.ref == 'refs/heads/main' }}
         run: |
-          docker build -t bookstore-order-service:latest .
+          ./mvnw spring-boot:build-image -DskipTests.
           echo "Pushing the image bookstore-order-service to Docker Hub..."
-          docker push bookstore-order-service:latest
+          docker push ${{secrets.DOCKERHUB_USERNAME}}/bookstore-order-service
