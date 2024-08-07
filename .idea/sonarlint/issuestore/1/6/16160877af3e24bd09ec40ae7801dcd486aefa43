@@ -1,0 +1,5 @@
+
+ø
+java:S1598"ÕThis file "RabbitMQDemoController.java" should be located in "com/vibhaneha/bookstore/orders/web/controllers" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/web/controllers"(Do not use dots in directory names).(ü¹¡¸úÿÿÿÿ8Ö¬€ÚŠ2
+l
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8¤Œ—ÛŠ2

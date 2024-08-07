@@ -1,0 +1,7 @@
+
+S
+java:S2629""7Use the built-in formatting to construct this argument.(γγV8σ‹‹2
+ρ
+java:S1598"ΞThis file "OrderController.java" should be located in "com/vibhaneha/bookstore/orders/web/controllers" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/web/controllers"(Do not use dots in directory names).(όΉ΅Έϊÿÿÿÿ8Ή΅‹2
+]
+java:S3457""AFormat specifiers should be used instead of string concatenation.(γγV8ώ‹‹2

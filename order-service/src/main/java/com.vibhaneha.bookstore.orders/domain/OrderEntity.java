@@ -1,10 +1,12 @@
 package com.vibhaneha.bookstore.orders.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.vibhaneha.bookstore.orders.domain.models.Address;
 import com.vibhaneha.bookstore.orders.domain.models.Customer;
 import com.vibhaneha.bookstore.orders.domain.models.OrderStatus;
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
+import java.util.HashSet;
 import java.util.Set;
 
 @Entity
@@ -18,12 +20,12 @@ public class OrderEntity {
         this.id = id;
     }
 
-    public String getOrderName() {
-        return orderName;
+    public String getOrderNumber() {
+        return orderNumber;
     }
 
-    public void setOrderName(String orderName) {
-        this.orderName = orderName;
+    public void setOrderNumber(String orderNumber) {
+        this.orderNumber = orderNumber;
     }
 
     public String getUserName() {
@@ -96,13 +98,14 @@ public class OrderEntity {
     private Long id;
 
     @Column(nullable = false)
-    private String orderName;
+    private String orderNumber;
 
     @Column(name = "username", nullable = false)
     private String userName;
 
+    @JsonIgnore
     @OneToMany(cascade = CascadeType.ALL, mappedBy = "order")
-    private Set<OrderItemEntity> items;
+    private Set<OrderItemEntity> items = new HashSet<>();
 
     @Embedded
     @AttributeOverrides(

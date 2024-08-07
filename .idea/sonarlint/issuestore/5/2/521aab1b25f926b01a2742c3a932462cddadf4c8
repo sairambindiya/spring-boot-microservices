@@ -1,0 +1,5 @@
+
+Ô
+java:S1598"·This file "RabbitMQListener.java" should be located in "com/vibhaneha/bookstore/orders/web" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/web"(Do not use dots in directory names).(ÉöÎ'8ú£ ÚŠ2
+G	java:S106"+Replace this use of System.out by a logger.(³íŒ8‚¤ ÚŠ2
+G	java:S106"+Replace this use of System.out by a logger.(ïÃÁ·8ƒ¤ ÚŠ2

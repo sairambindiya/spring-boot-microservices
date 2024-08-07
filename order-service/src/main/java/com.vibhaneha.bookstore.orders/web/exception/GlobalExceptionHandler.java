@@ -1,4 +1,4 @@
-package com.vibhaneha.bookstore.orders.web.controllers.exception;
+package com.vibhaneha.bookstore.orders.web.exception;
 
 import com.vibhaneha.bookstore.orders.domain.InvalidOrderException;
 import com.vibhaneha.bookstore.orders.domain.OrderNotFoundException;

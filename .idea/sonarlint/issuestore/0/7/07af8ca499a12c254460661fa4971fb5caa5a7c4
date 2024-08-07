@@ -1,0 +1,6 @@
+
+Û
+java:S1598"¿This file "RabbitMqTestRunner.java" should be located in "com/vibhaneha/bookstore/orders/domain" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/domain"(Do not use dots in directory names).(‰¨€øÿÿÿÿ
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ùßˆ ˆ2
+L	java:S106"+Replace this use of System.out by a logger.(Šæñšÿÿÿÿÿ8ÿ£ˆ ˆ2
