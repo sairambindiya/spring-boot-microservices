@@ -1,0 +1,7 @@
+
+~
+java:S2629"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¢–Ÿşÿÿÿÿ8´‘ 2
+à
+java:S1598"ÂThis file "OrderEventsPublishingJobs.java" should be located in "com/vibhaneha/bookstore/orders/jobs" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/jobs"(Do not use dots in directory names).(‘³Ôâ8¶‘ 2
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(¢–Ÿşÿÿÿÿ8Ï‘ 2

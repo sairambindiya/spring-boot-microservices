@@ -1,0 +1,13 @@
+
+à
+java:S1598"ÃThis file "OrderDTO.java" should be located in "com/vibhaneha/bookstore/orders/domain/models" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/domain/models"(Do not use dots in directory names).(­Ö Y8¤ÃØ—’2
+e
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(þ‘‹„8«ÃØ—’2
+k
+java:S1128"NRemove this unused import 'com.vibhaneha.bookstore.orders.domain.OrderMapper'.(íë¬Ô8«ÃØ—’2
+I
+java:S1128"-Remove this unused import 'org.slf4j.Logger'.(íØ®68«ÃØ—’2
+Q
+java:S1128"4Remove this unused import 'org.slf4j.LoggerFactory'.(–ÿÚÞ8«ÃØ—’2
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¬ÃØ—’2

@@ -1,0 +1,10 @@
+
+Y
+java:S2629"7Use the built-in formatting to construct this argument.(‡«”¥ûÿÿÿÿ8ÓæÍÖŽ2
+ñ
+java:S1598"ÓThis file "ProductServiceClient.java" should be located in "com/vibhaneha/bookstore/orders/clients/catalog" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/clients/catalog"(Do not use dots in directory names).(Æ¶°ó8ÔæÍÖŽ2
+c
+java:S3457"AFormat specifiers should be used instead of string concatenation.(‡«”¥ûÿÿÿÿ8àæÍÖŽ2
+E
+java:S1172 "(Remove this unused method parameter "t".(‘ðžò8™²ÎÖŽ2
+L	java:S106!"+Replace this use of System.out by a logger.(™òë¼ÿÿÿÿÿ8™²ÎÖŽ2

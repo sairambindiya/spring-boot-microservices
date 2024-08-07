@@ -1,5 +1,11 @@
 
 Û
-java:S1598"¸This file "OrderMapper.java" should be located in "com/vibhaneha/bookstore/orders/domain" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/domain"(Do not use dots in directory names).(‰¨€øÿÿÿÿ8÷á¤èŠ2
-\
-java:S1118":Add a private constructor to hide the implicit public one.(Õ¤¾ûÿÿÿÿ8â¤èŠ2
+java:S1598"¸This file "OrderMapper.java" should be located in "com/vibhaneha/bookstore/orders/domain" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/domain"(Do not use dots in directory names).(‰¨€øÿÿÿÿ8…ÕÉš‘2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÕÎØı8’ÕÉš‘2
+]	java:S1255"<This block of commented-out lines of code should be removed.(µÑ€ıÿÿÿÿ8™ÕÉš‘2
+T
+java:S1128
+"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8›ÕÉš‘2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8›ÕÉš‘2

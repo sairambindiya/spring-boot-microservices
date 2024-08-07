@@ -1,3 +1,5 @@
 
 Χ
-java:S1598"΄This file "ApplicationProperties.java" should be located in "com/vibhaneha/bookstore/orders" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders"(Do not use dots in directory names).(§¨±χόÿÿÿÿ8‚ά©Ξ†2
+java:S1598"΄This file "ApplicationProperties.java" should be located in "com/vibhaneha/bookstore/orders" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders"(Do not use dots in directory names).(§¨±χόÿÿÿÿ8γά¨Ϊ2
+g
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(ήχΡΈÿÿÿÿÿ8νά¨Ϊ2

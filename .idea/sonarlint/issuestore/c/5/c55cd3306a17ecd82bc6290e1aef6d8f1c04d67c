@@ -1,0 +1,10 @@
+
+g	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8üš³È2
+g	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ıš³È2
+Y
+java:S2629t"7Use the built-in formatting to construct this argument.(²’Óùÿÿÿÿ8ÿš³È2
+á
+java:S1598"¾This file "OrderEventService.java" should be located in "com/vibhaneha/bookstore/orders/domain" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/domain"(Do not use dots in directory names).(‰¨€øÿÿÿÿ8€›³È2
+m	java:S128p"LEnd this switch case with an unconditional break, return or throw statement.(’×‰Çüÿÿÿÿ8™›³È2
+c
+java:S3457t"AFormat specifiers should be used instead of string concatenation.(²’Óùÿÿÿÿ8š›³È2

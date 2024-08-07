@@ -1,3 +1,10 @@
 
-7
-java:S1220""Move this file to a named package.8©•şÚŠ2
+â
+java:S1598"¿This file "OrderEventListener.java" should be located in "com/vibhaneha/bookstore/orders/domain" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/domain"(Do not use dots in directory names).(‰¨€øÿÿÿÿ8¸×§2
+]	java:S125"<This block of commented-out lines of code should be removed.(±”¼ªøÿÿÿÿ8úÀ¨§2
+n
+java:S1128"QRemove this unused import 'com.vibhaneha.bookstore.orders.ApplicationProperties'.(ã€Òè8úÀ¨§2
+x
+java:S1128"VRemove this unused import 'org.springframework.amqp.rabbit.annotation.RabbitListener'.(İÑÀ›ÿÿÿÿÿ8ûÀ¨§2
+g
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8ûÀ¨§2

@@ -1,0 +1,5 @@
+
+÷
+java:S1598"ÙThis file "CatalogServiceClientConfig.java" should be located in "com/vibhaneha/bookstore/orders/clients/catalog" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/clients/catalog"(Do not use dots in directory names).(Æ¶°ó8ˆî“­2
+r
+java:S1128"URemove this unused import 'org.springframework.http.client.ClientHttpRequestFactory'.(Œûˆ8î“­2

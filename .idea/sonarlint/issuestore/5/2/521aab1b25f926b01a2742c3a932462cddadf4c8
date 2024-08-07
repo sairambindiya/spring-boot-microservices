@@ -1,5 +1,9 @@
 
 Ô
 java:S1598"·This file "RabbitMQListener.java" should be located in "com/vibhaneha/bookstore/orders/web" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/web"(Do not use dots in directory names).(ÉöÎ'8ú£ ÚŠ2
-G	java:S106"+Replace this use of System.out by a logger.(³íŒ8‚¤ ÚŠ2
-G	java:S106"+Replace this use of System.out by a logger.(ïÃÁ·8ƒ¤ ÚŠ2
+]	java:S125"<This block of commented-out lines of code should be removed.(¶–ßàûÿÿÿÿ8‰ë 2
+]	java:S125	"<This block of commented-out lines of code should be removed.(É¶†·ıÿÿÿÿ8ëœê 2
+x
+java:S1128"VRemove this unused import 'org.springframework.amqp.rabbit.annotation.RabbitListener'.(İÑÀ›ÿÿÿÿÿ8¡‰ë 2
+`
+java:S1128"CRemove this unused import 'org.springframework.stereotype.Service'.(¼º¡Ú8¡‰ë 2

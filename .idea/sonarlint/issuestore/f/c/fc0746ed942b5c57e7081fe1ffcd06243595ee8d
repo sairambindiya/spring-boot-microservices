@@ -1,3 +1,5 @@
 
 ß
 java:S1598"ÃThis file "OrderNotFoundException.java" should be located in "com/vibhaneha/bookstore/orders/domain" directory, not in "/Users/vibhaneha/Documents/vibha/interview-preparation/sivalabs/BookStore/spring-boot-microservices/order-service/src/main/java/com.vibhaneha.bookstore.orders/domain"(Do not use dots in directory names).(‰¨€øÿÿÿÿ
+w
+java:S1128"URemove this unused import 'org.springframework.web.bind.annotation.ControllerAdvice'.(¶Í„áüÿÿÿÿ8˜›Ä™‘2
